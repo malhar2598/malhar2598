@@ -78,7 +78,7 @@ Certified in Intermediate & Basic SQL
 Mastering GitHub Certification
 Participant in Masai Construct Week
 
-## 📫 Let's Connect
-E-mail: malhardighe98@gmail.com
-LinkedIn: https://www.linkedin.com/in/malhar-dighe-4a5679309/
-Instagram: https://www.instagram.com/mal___reynolds/
+
+📫 Let’s Connect!
+<a href="https://www.linkedin.com/in/malhar-dighe-4a5679309/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a> <a href="https://www.instagram.com/mal___reynolds/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a> </p>
+
