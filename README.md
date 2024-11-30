@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Malhar Dighe👋
 
 
 A Data Analyst with a background in B.Sc (HHA) and advanced training in data analysis from Masai. I specialize in transforming raw data into actionable insights through data visualization and machine learning
