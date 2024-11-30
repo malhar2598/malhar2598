@@ -8,7 +8,20 @@ A Data Analyst with a background in B.Sc (HHA) and advanced training in data ana
 📚 Open to Collaborations: Always excited to work on real-world data analysis projects and explore emerging technologies.
 
 ## 🚀 Technical Skills
-Python MySQL Pandas NumPy Matplotlib Seaborn Excel Power BI Streamlit Machine Learning Artificial Intelligence VS Code Jupyter
+* Python
+* MySQL
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Excel
+* Power
+* BI
+* Streamlit
+* Machine Learning
+* Artificial Intelligence
+* VS Code
+* Jupyter
 
 ## Programming Languages: Python, SQL
 Data Analysis Tools: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
